@@ -1,4 +1,4 @@
-# Advent of Code Challenge Infominds/ACS/Consisto 2024
+# Advent of Code Challenge 2024
 
 ## Rules
 
@@ -15,7 +15,7 @@
 ## Prizes
 
 * This year I will offer two different prizes
-* Only employees of Infominds/ACS/Consisto, me excluded, are eligible to win
+* Only employees of ACS / Consisto / Infominds / Printyway, me excluded, are eligible to win
 * The winners must provide the source code as a public GitHub repo
 * If multiple participants collected the same number of stars, the winner will be selected using the AoC Leaderboard, ordered by stars
 
